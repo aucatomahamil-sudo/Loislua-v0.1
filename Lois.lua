@@ -188,7 +188,7 @@ Ghost_Name.Position = UDim2.new(0.103, 0, 0.05, 0)
 Ghost_Name.Size = UDim2.new(0.112, 0, 0.914, 0)
 Ghost_Name.TextScaled = true
 Ghost_Name.TextColor3 = Color3.new(1, 1, 1)
-Ghost_Name.Text = "Lois测试版"
+Ghost_Name.Text = "Lois"
 Ghost_Name.Visible = true
 
 local UIGGhos_Name = Instance.new("UIGradient")
@@ -475,7 +475,7 @@ function Library()
     notiftitle.TextColor3 = Color3.new(1, 1, 1)
     notiftitle.TextScaled = true
     notiftitle.Font = Enum.Font.FredokaOne
-    notiftitle.Text = Lois测试版
+    notiftitle.Text = Lois
 
     local notificon = Instance.new("ImageLabel")
     notificon.Parent = notif
